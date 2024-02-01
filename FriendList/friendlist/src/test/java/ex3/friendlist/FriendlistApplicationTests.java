@@ -1,10 +1,10 @@
-package friendlist.ex3;
+package ex3.friendlist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ex3ApplicationTests {
+class FriendlistApplicationTests {
 
 	@Test
 	void contextLoads() {
